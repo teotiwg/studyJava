@@ -1,0 +1,8 @@
+package part2;
+
+public class lesson02Str {
+    public static void main(String[] args) {
+        System.out.println("나는 문자열");
+        System.out.println('헐');
+    }
+}
